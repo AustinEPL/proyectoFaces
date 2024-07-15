@@ -1,0 +1,14 @@
+.cabe {
+    display: flex;
+    justify-content: space-around;
+
+}
+.bo{
+    margin: auto;
+
+}
+
+.lbl{
+    margin: 0;
+    padding: 0;
+}
